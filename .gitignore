@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+.venv/
+
+# ignore debugging log
+selenium_task_scheduler.log

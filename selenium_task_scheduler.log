@@ -3,3 +3,520 @@
 2024-10-10 14:44:17,407:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
 2024-10-10 14:44:36,099:INFO:Submit Times button clicked
 2024-10-10 14:44:42,045:INFO:Script finished
+2024-11-04 15:22:12,411:INFO:Script started
+2024-11-04 15:22:20,316:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-04 15:22:42,413:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C2C7B095+29557]
+	(No symbol) [0x00007FF7C2BEFA50]
+	(No symbol) [0x00007FF7C2AAB56A]
+	(No symbol) [0x00007FF7C2AFF695]
+	(No symbol) [0x00007FF7C2AFF8EC]
+	(No symbol) [0x00007FF7C2B4B777]
+	(No symbol) [0x00007FF7C2B271CF]
+	(No symbol) [0x00007FF7C2B4851C]
+	(No symbol) [0x00007FF7C2B26F33]
+	(No symbol) [0x00007FF7C2AF116F]
+	(No symbol) [0x00007FF7C2AF22D1]
+	GetHandleVerifier [0x00007FF7C2FAC96D+3378253]
+	GetHandleVerifier [0x00007FF7C2FF8497+3688311]
+	GetHandleVerifier [0x00007FF7C2FED1CB+3642539]
+	GetHandleVerifier [0x00007FF7C2D3A6B6+813462]
+	(No symbol) [0x00007FF7C2BFAB5F]
+	(No symbol) [0x00007FF7C2BF6B74]
+	(No symbol) [0x00007FF7C2BF6D10]
+	(No symbol) [0x00007FF7C2BE5C1F]
+	BaseThreadInitThunk [0x00007FFEA1B1257D+29]
+	RtlUserThreadStart [0x00007FFEA348AF08+40]
+
+2024-11-04 15:22:55,053:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C2C7B095+29557]
+	(No symbol) [0x00007FF7C2BEFA50]
+	(No symbol) [0x00007FF7C2AAB56A]
+	(No symbol) [0x00007FF7C2AFF695]
+	(No symbol) [0x00007FF7C2AFF8EC]
+	(No symbol) [0x00007FF7C2B4B777]
+	(No symbol) [0x00007FF7C2B271CF]
+	(No symbol) [0x00007FF7C2B4851C]
+	(No symbol) [0x00007FF7C2B26F33]
+	(No symbol) [0x00007FF7C2AF116F]
+	(No symbol) [0x00007FF7C2AF22D1]
+	GetHandleVerifier [0x00007FF7C2FAC96D+3378253]
+	GetHandleVerifier [0x00007FF7C2FF8497+3688311]
+	GetHandleVerifier [0x00007FF7C2FED1CB+3642539]
+	GetHandleVerifier [0x00007FF7C2D3A6B6+813462]
+	(No symbol) [0x00007FF7C2BFAB5F]
+	(No symbol) [0x00007FF7C2BF6B74]
+	(No symbol) [0x00007FF7C2BF6D10]
+	(No symbol) [0x00007FF7C2BE5C1F]
+	BaseThreadInitThunk [0x00007FFEA1B1257D+29]
+	RtlUserThreadStart [0x00007FFEA348AF08+40]
+
+2024-11-04 15:23:05,352:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C2C7B095+29557]
+	(No symbol) [0x00007FF7C2BEFA50]
+	(No symbol) [0x00007FF7C2AAB56A]
+	(No symbol) [0x00007FF7C2AFF695]
+	(No symbol) [0x00007FF7C2AFF8EC]
+	(No symbol) [0x00007FF7C2B4B777]
+	(No symbol) [0x00007FF7C2B271CF]
+	(No symbol) [0x00007FF7C2B4851C]
+	(No symbol) [0x00007FF7C2B26F33]
+	(No symbol) [0x00007FF7C2AF116F]
+	(No symbol) [0x00007FF7C2AF22D1]
+	GetHandleVerifier [0x00007FF7C2FAC96D+3378253]
+	GetHandleVerifier [0x00007FF7C2FF8497+3688311]
+	GetHandleVerifier [0x00007FF7C2FED1CB+3642539]
+	GetHandleVerifier [0x00007FF7C2D3A6B6+813462]
+	(No symbol) [0x00007FF7C2BFAB5F]
+	(No symbol) [0x00007FF7C2BF6B74]
+	(No symbol) [0x00007FF7C2BF6D10]
+	(No symbol) [0x00007FF7C2BE5C1F]
+	BaseThreadInitThunk [0x00007FFEA1B1257D+29]
+	RtlUserThreadStart [0x00007FFEA348AF08+40]
+
+2024-11-04 15:23:05,435:INFO:Submit Times button clicked
+2024-11-04 15:23:10,941:INFO:Script finished
+2024-11-12 00:09:24,741:INFO:Script started
+2024-11-12 00:09:32,114:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-12 00:09:56,036:INFO:Submit Times button clicked
+2024-11-12 00:10:01,681:INFO:Script finished
+2024-11-13 07:02:07,310:INFO:Script started
+2024-11-13 07:02:17,196:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-13 07:02:42,119:INFO:Submit Times button clicked
+2024-11-13 07:02:48,222:INFO:Script finished
+2024-11-16 22:08:27,590:INFO:Script started
+2024-11-16 22:08:34,516:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-16 22:08:55,289:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69F77B095+29557]
+	(No symbol) [0x00007FF69F6EFA50]
+	(No symbol) [0x00007FF69F5AB56A]
+	(No symbol) [0x00007FF69F5FF695]
+	(No symbol) [0x00007FF69F5FF8EC]
+	(No symbol) [0x00007FF69F64B777]
+	(No symbol) [0x00007FF69F6271CF]
+	(No symbol) [0x00007FF69F64851C]
+	(No symbol) [0x00007FF69F626F33]
+	(No symbol) [0x00007FF69F5F116F]
+	(No symbol) [0x00007FF69F5F22D1]
+	GetHandleVerifier [0x00007FF69FAAC96D+3378253]
+	GetHandleVerifier [0x00007FF69FAF8497+3688311]
+	GetHandleVerifier [0x00007FF69FAED1CB+3642539]
+	GetHandleVerifier [0x00007FF69F83A6B6+813462]
+	(No symbol) [0x00007FF69F6FAB5F]
+	(No symbol) [0x00007FF69F6F6B74]
+	(No symbol) [0x00007FF69F6F6D10]
+	(No symbol) [0x00007FF69F6E5C1F]
+	BaseThreadInitThunk [0x00007FF88B35257D+29]
+	RtlUserThreadStart [0x00007FF88D66AF08+40]
+
+2024-11-16 22:09:05,642:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69F77B095+29557]
+	(No symbol) [0x00007FF69F6EFA50]
+	(No symbol) [0x00007FF69F5AB56A]
+	(No symbol) [0x00007FF69F5FF695]
+	(No symbol) [0x00007FF69F5FF8EC]
+	(No symbol) [0x00007FF69F64B777]
+	(No symbol) [0x00007FF69F6271CF]
+	(No symbol) [0x00007FF69F64851C]
+	(No symbol) [0x00007FF69F626F33]
+	(No symbol) [0x00007FF69F5F116F]
+	(No symbol) [0x00007FF69F5F22D1]
+	GetHandleVerifier [0x00007FF69FAAC96D+3378253]
+	GetHandleVerifier [0x00007FF69FAF8497+3688311]
+	GetHandleVerifier [0x00007FF69FAED1CB+3642539]
+	GetHandleVerifier [0x00007FF69F83A6B6+813462]
+	(No symbol) [0x00007FF69F6FAB5F]
+	(No symbol) [0x00007FF69F6F6B74]
+	(No symbol) [0x00007FF69F6F6D10]
+	(No symbol) [0x00007FF69F6E5C1F]
+	BaseThreadInitThunk [0x00007FF88B35257D+29]
+	RtlUserThreadStart [0x00007FF88D66AF08+40]
+
+2024-11-16 22:09:10,728:INFO:Submit Times button clicked
+2024-11-16 22:09:16,261:INFO:Script finished
+2024-11-18 07:08:06,240:INFO:Script started
+2024-11-18 07:08:14,293:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-18 07:08:42,754:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF702C8B095+29557]
+	(No symbol) [0x00007FF702BFFA50]
+	(No symbol) [0x00007FF702ABB56A]
+	(No symbol) [0x00007FF702B0F695]
+	(No symbol) [0x00007FF702B0F8EC]
+	(No symbol) [0x00007FF702B5B777]
+	(No symbol) [0x00007FF702B371CF]
+	(No symbol) [0x00007FF702B5851C]
+	(No symbol) [0x00007FF702B36F33]
+	(No symbol) [0x00007FF702B0116F]
+	(No symbol) [0x00007FF702B022D1]
+	GetHandleVerifier [0x00007FF702FBC96D+3378253]
+	GetHandleVerifier [0x00007FF703008497+3688311]
+	GetHandleVerifier [0x00007FF702FFD1CB+3642539]
+	GetHandleVerifier [0x00007FF702D4A6B6+813462]
+	(No symbol) [0x00007FF702C0AB5F]
+	(No symbol) [0x00007FF702C06B74]
+	(No symbol) [0x00007FF702C06D10]
+	(No symbol) [0x00007FF702BF5C1F]
+	BaseThreadInitThunk [0x00007FFAD08F257D+29]
+	RtlUserThreadStart [0x00007FFAD162AF08+40]
+
+2024-11-18 07:08:53,240:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF702C8B095+29557]
+	(No symbol) [0x00007FF702BFFA50]
+	(No symbol) [0x00007FF702ABB56A]
+	(No symbol) [0x00007FF702B0F695]
+	(No symbol) [0x00007FF702B0F8EC]
+	(No symbol) [0x00007FF702B5B777]
+	(No symbol) [0x00007FF702B371CF]
+	(No symbol) [0x00007FF702B5851C]
+	(No symbol) [0x00007FF702B36F33]
+	(No symbol) [0x00007FF702B0116F]
+	(No symbol) [0x00007FF702B022D1]
+	GetHandleVerifier [0x00007FF702FBC96D+3378253]
+	GetHandleVerifier [0x00007FF703008497+3688311]
+	GetHandleVerifier [0x00007FF702FFD1CB+3642539]
+	GetHandleVerifier [0x00007FF702D4A6B6+813462]
+	(No symbol) [0x00007FF702C0AB5F]
+	(No symbol) [0x00007FF702C06B74]
+	(No symbol) [0x00007FF702C06D10]
+	(No symbol) [0x00007FF702BF5C1F]
+	BaseThreadInitThunk [0x00007FFAD08F257D+29]
+	RtlUserThreadStart [0x00007FFAD162AF08+40]
+
+2024-11-18 07:08:53,405:INFO:Submit Times button clicked
+2024-11-18 07:08:59,646:INFO:Script finished
+2024-11-21 02:22:58,994:INFO:Script started
+2024-11-21 02:29:15,584:INFO:Script started
+2024-11-21 02:32:26,960:INFO:Script started
+2024-11-21 02:46:48,211:INFO:Script started
+2024-11-21 02:46:56,711:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-21 02:47:16,430:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:47:27,240:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:47:37,950:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:47:48,720:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:47:49,251:ERROR:Error occurred: Message: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F7655B9]
+	(No symbol) [0x00007FF70F7BA674]
+	(No symbol) [0x00007FF70F7ACBA0]
+	(No symbol) [0x00007FF70F7DF2FA]
+	(No symbol) [0x00007FF70F7AC3F6]
+	(No symbol) [0x00007FF70F7DF510]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:47:49,251:ERROR:Traceback (most recent call last):
+  File "C:\Users\joshz\umd-library-webscraper\reserve.py", line 51, in scrape
+    submit_button.click()
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 380, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F7655B9]
+	(No symbol) [0x00007FF70F7BA674]
+	(No symbol) [0x00007FF70F7ACBA0]
+	(No symbol) [0x00007FF70F7DF2FA]
+	(No symbol) [0x00007FF70F7AC3F6]
+	(No symbol) [0x00007FF70F7DF510]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+
+2024-11-21 02:47:52,399:INFO:Script finished
+2024-11-21 02:49:44,441:INFO:Script started
+2024-11-21 02:49:54,171:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-21 02:50:14,219:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:50:25,041:ERROR:Time slot not available: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F7B91BE]
+	(No symbol) [0x00007FF70F7B94AC]
+	(No symbol) [0x00007FF70F802647]
+	(No symbol) [0x00007FF70F7DF33F]
+	(No symbol) [0x00007FF70F7FF412]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:50:33,848:ERROR:Time slot not available: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F73F4F5]
+	(No symbol) [0x00007FF70F7E6247]
+	(No symbol) [0x00007FF70F7FECE2]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:50:33,850:ERROR:Time slot not available: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F73F4F5]
+	(No symbol) [0x00007FF70F7E6247]
+	(No symbol) [0x00007FF70F7FECE2]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:50:33,851:ERROR:Error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F73F4F5]
+	(No symbol) [0x00007FF70F7E6247]
+	(No symbol) [0x00007FF70F7FECE2]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+2024-11-21 02:50:33,854:ERROR:Traceback (most recent call last):
+  File "C:\Users\joshz\umd-library-webscraper\reserve.py", line 50, in scrape
+    submit_button = driver.find_element(By.ID, 'submit_times')
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 766, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 380, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\joshz\umd-library-webscraper\venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70F956CB5+28821]
+	(No symbol) [0x00007FF70F8C3840]
+	(No symbol) [0x00007FF70F76578A]
+	(No symbol) [0x00007FF70F73F4F5]
+	(No symbol) [0x00007FF70F7E6247]
+	(No symbol) [0x00007FF70F7FECE2]
+	(No symbol) [0x00007FF70F7DF0A3]
+	(No symbol) [0x00007FF70F7AA778]
+	(No symbol) [0x00007FF70F7AB8E1]
+	GetHandleVerifier [0x00007FF70FC8FCAD+3408013]
+	GetHandleVerifier [0x00007FF70FCA741F+3504127]
+	GetHandleVerifier [0x00007FF70FC9B5FD+3455453]
+	GetHandleVerifier [0x00007FF70FA1BDBB+835995]
+	(No symbol) [0x00007FF70F8CEB5F]
+	(No symbol) [0x00007FF70F8CA814]
+	(No symbol) [0x00007FF70F8CA9AD]
+	(No symbol) [0x00007FF70F8BA199]
+	BaseThreadInitThunk [0x00007FFE871B257D+29]
+	RtlUserThreadStart [0x00007FFE8814AF08+40]
+
+
+2024-11-21 02:50:35,917:INFO:Script finished
+2024-11-21 03:03:47,451:INFO:Script started
+2024-11-21 03:03:55,539:INFO:Visiting Space Availability - McKeldin Library - Libraries Reservation Calendar - University of Maryland Libraries at https://umd.libcal.com/reserve/mckeldin/carrels-4hr
+2024-11-21 03:03:57,733:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/e8abd64d7ec9ca5787cda162c2b35240

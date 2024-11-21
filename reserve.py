@@ -16,10 +16,11 @@ logging.basicConfig(filename="selenium_task_scheduler.log", level=logging.INFO,
 logging.info("Script started")
 
 options = Options()
-options.add_argument("--headless")
+options.add_argument("--headless") #get rid of this for demo
 service = Service('C:/Users/joshz/.cache/selenium/chromedriver/win64/129.0.6668.100/chromedriver.exe')
 driver = webdriver.Chrome(service=service, options=options)
 
+#RESERVES 5 DAYS AHEAD.
 def scrape(url, driver, time_slot_selectors):
     try:
         driver.get(url)
